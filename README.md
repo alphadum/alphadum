@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dumindu.
+- 👀 I’m interested in Go, Rust, Kubernetes, and Cloud Native Applications.
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on Rust projects.
+- 📫 dumindu@alphanetworks.com.sg
